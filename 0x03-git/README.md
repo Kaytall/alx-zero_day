@@ -1,2 +1,1 @@
-Git folder created
-
+a readme for the git directory
